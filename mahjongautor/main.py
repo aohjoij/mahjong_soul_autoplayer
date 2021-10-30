@@ -13,8 +13,6 @@ import keyboard
 import time
 #cv2
 import cv2
-#ctypes
-import ctypes
 #System(original)
 #from System import system_main as SM
 from System import game_play as gp
